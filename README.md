@@ -1,4 +1,4 @@
-# Pneumonia-Detection-using-chest-X-Ray
+# Pneumonia-Detection-Using-CNN
 
 # Objective
 To make a classifier that is able to distinguish between a person who has Pneumonia and a normal person using the X-Rays of their Lungs. These X-Rays were taken during regular check ups of these patients.
